@@ -22,5 +22,6 @@ int main()
     moveKing(oldX,oldY,newX,newY);
     moveHorse(oldX,oldY,newX,newY);
     moveTower(oldX,oldY,newX,newY,board);
+    moveElephant(oldX,oldY,newX,newY);
     return 0;
 }
