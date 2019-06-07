@@ -8,3 +8,5 @@ int moveKing(int oldX,int oldY,int newX,int newY);
 int moveTower(int oldX,int oldY,int newX,int newY,int board[8][8]);
 int moveHorse(int oldX,int oldY,int newX,int newY);
 int moveQueen(int oldX,int oldY,int newX,int newY, int board[8][8]);
+int moveElephant(int oldX,int oldY,int newX,int newY);
+
