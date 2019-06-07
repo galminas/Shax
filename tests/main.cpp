@@ -5,6 +5,7 @@
 #include "test_tower.h"
 #include "test_queen.h"
 #include "test_horse.h"
+#include "test_el.h"
 
 #include <gtest/gtest.h>
 
